@@ -1,0 +1,4 @@
+# Created at 2019-09-08T16:01:00.807
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Photon\zoomcar\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
